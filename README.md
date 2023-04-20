@@ -1,7 +1,7 @@
 ### :octocat: Github Profile for J. Sun
 
 * Name: Jiayuan Sun
-* Website: [sunjiayuanro.github.io](sunjiayuanro.github.io)
+* Website: [https://sunjiayuanro.github.io/](https://sunjiayuanro.github.io/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sunjiayuanro&left_color=green&right_color=red)
 
